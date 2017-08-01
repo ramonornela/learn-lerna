@@ -1,6 +1,6 @@
 {
     "name": "@ramonornela/lerna-test",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "devDependencies": {
         "@angular/core": "4.2.3"
     }
